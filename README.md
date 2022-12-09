@@ -1,3 +1,5 @@
+This project was created to be used as my final project at college.
+
 # PidiFrontendApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
