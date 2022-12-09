@@ -1,4 +1,7 @@
+# About GEDUC
 This project was created to be used as my final project at college.
+
+The back-end was created by @dedeus6 (https://github.com/dedeus6) and commited in the following repository: https://github.com/dedeus6/geduc
 
 # PidiFrontendApp
 
